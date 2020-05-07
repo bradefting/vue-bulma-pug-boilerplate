@@ -1,4 +1,4 @@
-# vue-amplify
+# vue-bulma-pug-boilerplate
 
 ## Project setup
 ```
